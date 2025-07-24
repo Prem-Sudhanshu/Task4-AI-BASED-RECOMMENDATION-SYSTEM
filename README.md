@@ -37,3 +37,5 @@ The program should be modular and well-documented, with commented code and usage
 Online tools such as YouTube tutorials, Google, and ChatGPT can be used to understand recommendation systems and how to implement them using Java.
 
 Successfully completing this task demonstrates proficiency in combining Java programming with AI concepts, marking a strong conclusion to the internship journey and contributing toward earning the completion certificate.
+
+# ![Image](https://github.com/user-attachments/assets/279bb95b-d94e-4c7d-b7a1-192539977918)
